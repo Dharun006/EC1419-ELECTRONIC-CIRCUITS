@@ -9,6 +9,8 @@
 ## Tabulations
 
 ## Graph
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/9dbf39c7-34d2-4ddb-bedd-c1ac2d4a5c1b" />
+
 
 
 <img width="853" height="183" alt="image" src="https://github.com/user-attachments/assets/ee91e1c1-171c-4208-83ee-e61ea1ba626c" />
